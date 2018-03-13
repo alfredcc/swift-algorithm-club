@@ -28,12 +28,12 @@ Code is compatible with **Xcode 9** and **Swift 4**. We'll keep this updated wit
 
 If you're new to algorithms and data structures, here are a few good ones to start out with:
 
-- [Stack](Stack/)
-- [Queue](Queue/)
-- [Insertion Sort](Insertion%20Sort/)
-- [Binary Search](Binary%20Search/) and [Binary Search Tree](Binary%20Search%20Tree/)
-- [Merge Sort](Merge%20Sort/)
-- [Boyer-Moore string search](Boyer-Moore-Horspool/)
+- [x] [Stack](Stack/)
+- [x] [Queue](Queue/)
+- [x] [Insertion Sort](Insertion%20Sort/)
+- [x] [Binary Search](Binary%20Search/) and [Binary Search Tree](Binary%20Search%20Tree/)
+- [ ] [Merge Sort](Merge%20Sort/)
+- [ ] [Boyer-Moore string search](Boyer-Moore-Horspool/)
 
 ## The algorithms
 
