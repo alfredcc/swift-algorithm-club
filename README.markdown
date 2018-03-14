@@ -39,23 +39,23 @@ If you're new to algorithms and data structures, here are a few good ones to sta
 
 ### Searching
 
-- [Linear Search](Linear%20Search/). Find an element in an array.
-- [Binary Search](Binary%20Search/). Quickly find elements in a sorted array.
-- [Count Occurrences](Count%20Occurrences/). Count how often a value appears in an array.
-- [Select Minimum / Maximum](Select%20Minimum%20Maximum). Find the minimum/maximum value in an array.
-- [k-th Largest Element](Kth%20Largest%20Element/). Find the *k*-th largest element in an array, such as the median.
-- [Selection Sampling](Selection%20Sampling/). Randomly choose a bunch of items from a collection.
-- [Union-Find](Union-Find/). Keeps track of disjoint sets and lets you quickly merge them.
+- [ ] [Linear Search](Linear%20Search/). Find an element in an array.
+- [ ] [Binary Search](Binary%20Search/). Quickly find elements in a sorted array.
+- [ ] [Count Occurrences](Count%20Occurrences/). Count how often a value appears in an array.
+- [ ] [Select Minimum / Maximum](Select%20Minimum%20Maximum). Find the minimum/maximum value in an array.
+- [ ] [k-th Largest Element](Kth%20Largest%20Element/). Find the *k*-th largest element in an array, such as the median.
+- [ ] [Selection Sampling](Selection%20Sampling/). Randomly choose a bunch of items from a collection.
+- [ ] [Union-Find](Union-Find/). Keeps track of disjoint sets and lets you quickly merge them.
 
 
 ### String Search
 
-- [Brute-Force String Search](Brute-Force%20String%20Search/). A naive method.
-- [Boyer-Moore](Boyer-Moore-Horspool/). A fast method to search for substrings. It skips ahead based on a look-up table, to avoid looking at every character in the text.
-- [Knuth-Morris-Pratt](Knuth-Morris-Pratt/). A linear-time string algorithm that returns indexes of all occurrencies of a given pattern.
-- [Rabin-Karp](Rabin-Karp/)  Faster search by using hashing.
-- [Longest Common Subsequence](Longest%20Common%20Subsequence/). Find the longest sequence of characters that appear in the same order in both strings.
-- [Z-Algorithm](Z-Algorithm/). Finds all instances of a pattern in a String, and returns the indexes of where the pattern starts within the String.
+- [ ] [Brute-Force String Search](Brute-Force%20String%20Search/). A naive method.
+- [ ] [Boyer-Moore](Boyer-Moore-Horspool/). A fast method to search for substrings. It skips ahead based on a look-up table, to avoid looking at every character in the text.
+- [ ] [Knuth-Morris-Pratt](Knuth-Morris-Pratt/). A linear-time string algorithm that returns indexes of all occurrencies of a given pattern.
+- [ ] [Rabin-Karp](Rabin-Karp/)  Faster search by using hashing.
+- [ ] [Longest Common Subsequence](Longest%20Common%20Subsequence/). Find the longest sequence of characters that appear in the same order in both strings.
+- [ ] [Z-Algorithm](Z-Algorithm/). Finds all instances of a pattern in a String, and returns the indexes of where the pattern starts within the String.
 
 ### Sorting
 
@@ -63,52 +63,52 @@ It's fun to see how sorting algorithms work, but in practice you'll almost never
 
 Basic sorts:
 
-- [Insertion Sort](Insertion%20Sort/)
-- [Selection Sort](Selection%20Sort/)
-- [Shell Sort](Shell%20Sort/)
+- [ ] [Insertion Sort](Insertion%20Sort/)
+- [ ] [Selection Sort](Selection%20Sort/)
+- [ ] [Shell Sort](Shell%20Sort/)
 
 Fast sorts:
 
-- [Quicksort](Quicksort/)
-- [Merge Sort](Merge%20Sort/)
-- [Heap Sort](Heap%20Sort/)
+- [ ] [Quicksort](Quicksort/)
+- [ ] [Merge Sort](Merge%20Sort/)
+- [ ] [Heap Sort](Heap%20Sort/)
 
 Hybrid sorts:
 
-- [Introsort](Introsort/)
+- [ ] [Introsort](Introsort/)
 
 Special-purpose sorts:
 
-- [Counting Sort](Counting%20Sort/)
-- [Radix Sort](Radix%20Sort/)
-- [Topological Sort](Topological%20Sort/)
+- [ ] [Counting Sort](Counting%20Sort/)
+- [ ] [Radix Sort](Radix%20Sort/)
+- [ ] [Topological Sort](Topological%20Sort/)
 
 Bad sorting algorithms (don't use these!):
 
-- [Bubble Sort](Bubble%20Sort/)
-- [Slow Sort](Slow%20Sort/)
+- [ ] [Bubble Sort](Bubble%20Sort/)
+- [ ] [Slow Sort](Slow%20Sort/)
 
 ### Compression
 
-- [Run-Length Encoding (RLE)](Run-Length%20Encoding/). Store repeated values as a single byte and a count.
-- [Huffman Coding](Huffman%20Coding/). Store more common elements using a smaller number of bits.
+- [ ] [Run-Length Encoding (RLE)](Run-Length%20Encoding/). Store repeated values as a single byte and a count.
+- [ ] [Huffman Coding](Huffman%20Coding/). Store more common elements using a smaller number of bits.
 
 ### Miscellaneous
 
-- [Shuffle](Shuffle/). Randomly rearranges the contents of an array.
-- [Comb Sort](Comb%20Sort/). An improve upon the Bubble Sort algorithm.
-- [Convex Hull](Convex%20Hull/).
-- [Miller-Rabin Primality Test](Miller-Rabin%20Primality%20Test/). Is the number a prime number?
-- [MinimumCoinChange](MinimumCoinChange/). A showcase for dynamic programming.
+- [ ] [Shuffle](Shuffle/). Randomly rearranges the contents of an array.
+- [ ] [Comb Sort](Comb%20Sort/). An improve upon the Bubble Sort algorithm.
+- [ ] [Convex Hull](Convex%20Hull/).
+- [ ] [Miller-Rabin Primality Test](Miller-Rabin%20Primality%20Test/). Is the number a prime number?
+- [ ] [MinimumCoinChange](MinimumCoinChange/). A showcase for dynamic programming.
 
 ### Mathematics
 
-- [Greatest Common Divisor (GCD)](GCD/). Special bonus: the least common multiple.
-- [Permutations and Combinations](Combinatorics/). Get your combinatorics on!
-- [Shunting Yard Algorithm](Shunting%20Yard/). Convert infix expressions to postfix.
-- [Karatsuba Multiplication](Karatsuba%20Multiplication/). Another take on elementary multiplication.
-- [Haversine Distance](HaversineDistance/). Calculating the distance between 2 points from a sphere.
-- [Strassen's Multiplication Matrix](Strassen%20Matrix%20Multiplication/). Efficient way to handle matrix multiplication.
+- [ ] [Greatest Common Divisor (GCD)](GCD/). Special bonus: the least common multiple.
+- [ ] [Permutations and Combinations](Combinatorics/). Get your combinatorics on!
+- [ ] [Shunting Yard Algorithm](Shunting%20Yard/). Convert infix expressions to postfix.
+- [ ] [Karatsuba Multiplication](Karatsuba%20Multiplication/). Another take on elementary multiplication.
+- [ ] [Haversine Distance](HaversineDistance/). Calculating the distance between 2 points from a sphere.
+- [ ] [Strassen's Multiplication Matrix](Strassen%20Matrix%20Multiplication/). Efficient way to handle matrix multiplication.
 
 ### Machine learning
 
@@ -148,26 +148,26 @@ Most of the time using just the built-in `Array`, `Dictionary`, and `Set` types 
 
 ### Lists
 
-- [Linked List](Linked%20List/). A sequence of data items connected through links. Covers both singly and doubly linked lists.
-- [Skip-List](Skip-List/). Skip List is a probabilistic data-structure with same logarithmic time bound and efficiency as AVL/ or Red-Black tree and provides a clever compromise to efficiently support search and update operations.
+- [ ] [Linked List](Linked%20List/). A sequence of data items connected through links. Covers both singly and doubly linked lists.
+- [ ] [Skip-List](Skip-List/). Skip List is a probabilistic data-structure with same logarithmic time bound and efficiency as AVL/ or Red-Black tree and provides a clever compromise to efficiently support search and update operations.
 
 ### Trees
 
-- [Tree](Tree/). A general-purpose tree structure.
-- [Binary Tree](Binary%20Tree/). A tree where each node has at most two children.
-- [Binary Search Tree (BST)](Binary%20Search%20Tree/). A binary tree that orders its nodes in a way that allows for fast queries.
-- [Red-Black Tree](Red-Black%20Tree/). A self balancing binary search tree.
-- [Splay Tree](Splay%20Tree/). A self balancing binary search tree that enables fast retrieval of recently updated elements.
-- [Threaded Binary Tree](Threaded%20Binary%20Tree/). A binary tree that maintains a few extra variables for cheap and fast in-order traversals.
-- [Segment Tree](Segment%20Tree/). Can quickly compute a function over a portion of an array.
-  - [Lazy Propagation](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Segment%20Tree/LazyPropagation)
+- [ ] [Tree](Tree/). A general-purpose tree structure.
+- [ ] [Binary Tree](Binary%20Tree/). A tree where each node has at most two children.
+- [ ] [Binary Search Tree (BST)](Binary%20Search%20Tree/). A binary tree that orders its nodes in a way that allows for fast queries.
+- [ ] [Red-Black Tree](Red-Black%20Tree/). A self balancing binary search tree.
+- [ ] [Splay Tree](Splay%20Tree/). A self balancing binary search tree that enables fast retrieval of recently updated elements.
+- [ ] [Threaded Binary Tree](Threaded%20Binary%20Tree/). A binary tree that maintains a few extra variables for cheap and fast in-order traversals.
+- [ ] [Segment Tree](Segment%20Tree/). Can quickly compute a function over a portion of an array.
+- [ ] [Lazy Propagation](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Segment%20Tree/LazyPropagation)
 - kd-Tree
-- [Heap](Heap/). A binary tree stored in an array, so it doesn't use pointers. Makes a great priority queue.
+- [ ] [Heap](Heap/). A binary tree stored in an array, so it doesn't use pointers. Makes a great priority queue.
 - Fibonacci Heap
-- [Trie](Trie/). A special type of tree used to store associative data structures.
-- [B-Tree](B-Tree/). A self-balancing search tree, in which nodes can have more than two children.
-- [QuadTree](QuadTree/). A tree with 4 children.
-- [Octree](Octree/). A tree with 8 children.
+- [ ] [Trie](Trie/). A special type of tree used to store associative data structures.
+- [ ] [B-Tree](B-Tree/). A self-balancing search tree, in which nodes can have more than two children.
+- [ ] [QuadTree](QuadTree/). A tree with 4 children.
+- [ ] [Octree](Octree/). A tree with 8 children.
 
 ### Hashing
 
