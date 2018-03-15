@@ -32,7 +32,7 @@ If you're new to algorithms and data structures, here are a few good ones to sta
 - [x] [Queue](Queue/)
 - [x] [Insertion Sort](Insertion%20Sort/)
 - [x] [Binary Search](Binary%20Search/) and [Binary Search Tree](Binary%20Search%20Tree/)
-- [ ] [Merge Sort](Merge%20Sort/)
+- [x] [Merge Sort](Merge%20Sort/)
 - [ ] [Boyer-Moore string search](Boyer-Moore-Horspool/)
 
 ## The algorithms
